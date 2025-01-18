@@ -1,2 +1,2 @@
 # atividades_ebac
-Atividades feitas durando o curso de Data Science da EBAC
+Atividades feitas durante o curso de Data Science da EBAC
